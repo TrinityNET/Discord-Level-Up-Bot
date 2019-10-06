@@ -1,0 +1,7 @@
+D:\MEE6 Level-Up Bot\bin\Debug\MEE6 Level-Up Bot.exe.config
+D:\MEE6 Level-Up Bot\bin\Debug\MEE6 Level-Up Bot.exe
+D:\MEE6 Level-Up Bot\bin\Debug\MEE6 Level-Up Bot.pdb
+D:\MEE6 Level-Up Bot\obj\Debug\MEE6 Level-Up Bot.csprojAssemblyReference.cache
+D:\MEE6 Level-Up Bot\obj\Debug\MEE6 Level-Up Bot.csproj.CoreCompileInputs.cache
+D:\MEE6 Level-Up Bot\obj\Debug\MEE6 Level-Up Bot.exe
+D:\MEE6 Level-Up Bot\obj\Debug\MEE6 Level-Up Bot.pdb
